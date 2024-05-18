@@ -1998,7 +1998,7 @@ h6 {
 
 .header__center {
     position: absolute;
-    left: 43%;
+    left: 50%;
     transform: translateX(-50%);
 }
 
