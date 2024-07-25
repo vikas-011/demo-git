@@ -1,6 +1,5 @@
 import React from "react";
 import Hero from "../../components/HeroComponent/Hero";
-import { Link } from "react-router-dom";
 import "./Home.css";
 import Rooms from "../../components/RoomComponent/Rooms";
 import Footer from "../../components/FooterComponent/Footer";
